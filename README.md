@@ -1,2 +1,2 @@
-# LayersThemePlugin_Example
+# Layers Theme PluginExample
 ##How to use
