@@ -9,7 +9,7 @@ open Android Studio, click on File, import project. Select the downloaded projec
 * at the top part of the Manifest you have to change the following things:
 ![alt tag](https://cloud.githubusercontent.com/assets/10466533/8212392/b9588420-151b-11e5-9243-baf2078fe936.png)  
   change the marked part in android:sharedUserId to you theme name. (example: exampleUI)                                        
-  change the marked part in android:lable the disired app Name (shown in android in the settings app  (example: Example UI)
+  change the marked part in android:label the disired app Name (shown in android in the settings app  (example: Example UI)
 
 * at the bottom you have to add some basic information about your theme
 ![alt tag](https://cloud.githubusercontent.com/assets/10466533/8212581/b70deb8c-151c-11e5-86a2-5c7f590dea34.png)  
@@ -39,7 +39,18 @@ Do the same with the exampleUi folder, name it like your desired second part of 
 <br />
 Finally open the build.gradle and change the package name there too.
 
-###Changes to the ressources
+###Changes to the resources
+
+In a file explorer open the following location of the project:
+  * Drawables (app\src\main\res\drawable-xxhdpi)
+     * You have to replace the following drawables with your own ones: <br/>
+     * Heroimage: A image displayed at the top of your themes page (dimensions should be about 1598*1052)
+     ![alt tag](https://cloud.githubusercontent.com/assets/10466533/8214333/cbb509ba-1528-11e5-9d4c-1e6a6514a474.png)
+     * icon: An icon displayed in the overlay chooser of the Layers Manager
+     ![alt tag](https://cloud.githubusercontent.com/assets/10466533/8214403/435d392e-1529-11e5-8c83-fb111d3a9fe5.png)
+     * screenshot1,2,3: Screenshots visible on you themes installation page (height should be about 1100px)
+     ![alt tag](https://cloud.githubusercontent.com/assets/10466533/8214474/ce3e376e-1529-11e5-856a-35061c15e069.png)
+
 
 
   
