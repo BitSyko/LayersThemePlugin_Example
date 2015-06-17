@@ -62,7 +62,7 @@ In a file explorer open the following location of the project:
 
 ##You are Ready
 
-Compile/run the app and test it in the new Layers Manager :) I hope the tutorial was understandable and if you still have any question or a suggestion on how to improve the tutorial, just ask me...
+Compile/run the app and test it in the new Layers Manager :) I hope the tutorial was understandable and if you still have any question or a suggestion on how to improve the tutorial, just tell me...
       
     
       
