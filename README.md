@@ -37,6 +37,9 @@ At the bottom of the screen a refactoring preview will appear. Just click on DO 
 <br />
 Do the same with the exampleUi folder, name it like your desired second part of the packagename <br />
 <br />
+Finally open the build.gradle and change the package name there too.
+
+###Changes to the ressources
 
 
   
