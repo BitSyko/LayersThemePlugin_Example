@@ -44,12 +44,12 @@ Finally open the build.gradle and change the package name there too.
 In a file explorer open the following location of the project:
   * Drawables (app\src\main\res\drawable-xxhdpi)
      * You have to replace the following drawables with your own ones: <br/>
-     * Heroimage: A image displayed at the top of your themes page (dimensions should be about 1598*1052)
-     ![alt tag](https://cloud.githubusercontent.com/assets/10466533/8214333/cbb509ba-1528-11e5-9d4c-1e6a6514a474.png)
-     * icon: An icon displayed in the overlay chooser of the Layers Manager
-     ![alt tag](https://cloud.githubusercontent.com/assets/10466533/8214403/435d392e-1529-11e5-8c83-fb111d3a9fe5.png)
-     * screenshot1,2,3: Screenshots visible on you themes installation page (height should be about 1100px)
-     ![alt tag](https://cloud.githubusercontent.com/assets/10466533/8214474/ce3e376e-1529-11e5-856a-35061c15e069.png)
+        * Heroimage: A image displayed at the top of your themes page (dimensions should be about 1598*1052) 
+     ![alt tag](https://cloud.githubusercontent.com/assets/10466533/8214333/cbb509ba-1528-11e5-9d4c-1e6a6514a474.png)<br/><br/>
+      * icon: An icon displayed in the overlay chooser of the Layers Manager<br/>
+     ![alt tag](https://cloud.githubusercontent.com/assets/10466533/8214403/435d392e-1529-11e5-8c83-fb111d3a9fe5.png)<br/><br/>
+      * screenshot1,2,3: Screenshots visible on you themes installation page (height should be about 1100px)
+     ![alt tag](https://cloud.githubusercontent.com/assets/10466533/8214474/ce3e376e-1529-11e5-856a-35061c15e069.png)<br/><br/><br/>
   * Overlay zips (app\src\main\assets\Files)
     * How to name the Overlay apk´s: ThemeName_OverlayedAppNameWithoutSpaces.apk (OverlayedAppNameWith... = one item you put into the OverlayNames list, but without the spaces)
     ![alt tag](https://cloud.githubusercontent.com/assets/10466533/8214666/07840692-152b-11e5-9084-d3228f31dbf1.png)
@@ -62,7 +62,7 @@ In a file explorer open the following location of the project:
 
 ##You are Ready
 
-Compile/run the app and test it in the new Layers Manager :)
+Compile/run the app and test it in the new Layers Manager :) I hope the tutorial was understandable and if you still have any question or a suggestion on how to improve the tutorial, just ask me...
       
     
       
