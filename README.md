@@ -1,3 +1,4 @@
 # Layers Theme PluginExample
 ##How to use
-###Test
+###Download the sample app
+from https://github.com/Sh4dowSoul/LayersThemePlugin_Example/releases
