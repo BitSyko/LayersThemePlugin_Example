@@ -50,6 +50,22 @@ In a file explorer open the following location of the project:
      ![alt tag](https://cloud.githubusercontent.com/assets/10466533/8214403/435d392e-1529-11e5-8c83-fb111d3a9fe5.png)
      * screenshot1,2,3: Screenshots visible on you themes installation page (height should be about 1100px)
      ![alt tag](https://cloud.githubusercontent.com/assets/10466533/8214474/ce3e376e-1529-11e5-856a-35061c15e069.png)
+  * Overlay zips (app\src\main\assets\Files)
+    * How to name the Overlay apk´s: ThemeName_OverlayedAppNameWithoutSpaces.apk (OverlayedAppNameWith... = one item you put into the OverlayNames list, but without the spaces)
+    ![alt tag](https://cloud.githubusercontent.com/assets/10466533/8214666/07840692-152b-11e5-9084-d3228f31dbf1.png)
+    * if
+      * Only normal Overlays: Generate a zip Named: ThemeName_General.zip (ThemeName = Name defined in the Manifest, but without spaces, ex: ExampleUi) and put the Overlays into it
+      * Only Color Overlays: Generate zips named: ThemeName_AColor.zip and put the Overlays into it.
+      ![alt tag](https://cloud.githubusercontent.com/assets/10466533/8214728/6dd99c2c-152b-11e5-84d4-ba4b089e7ba8.png)
+      * both normal and color: Generate a zip named ThemeName_General.zip and for each color a ThemeName_AColor.zip and put the Overlays which are only available in one color into the General zip and the others into the Color zips
+      
+
+##You are Ready
+
+Compile/run the app and test it in the new Layers Manager :)
+      
+    
+      
 
 
 
