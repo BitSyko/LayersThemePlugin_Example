@@ -1,7 +1,7 @@
 # Layers Theme PluginExample
 ##How to use
 ###Download & open
-download the sample app from https://github.com/Sh4dowSoul/LayersThemePlugin_Example/releases
+download the sample app from https://github.com/LayersManager/LayersThemePlugin_Example/releases
 open Android Studio, click on File, import project. Select the downloaded project.
 
 ###Changes to Manifest
