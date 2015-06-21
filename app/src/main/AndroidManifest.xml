@@ -6,7 +6,8 @@
     android:sharedUserId="android.uid.ExampleUi"
     android:process="com.android.Layers">
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
-    <application android:label="Example UI">
+    <application android:label="Example UI"
+        android:icon="@drawable/icon">
         <service android:name=".Overlay"
             android:exported="true">
             <intent-filter>
