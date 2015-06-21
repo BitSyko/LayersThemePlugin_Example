@@ -8,7 +8,7 @@ open Android Studio, click on File, import project. Select the downloaded projec
 * inside the project navigate to the **AndroidManifest.xml**
 * at the top part of the Manifest you have to change the following things:
 ![alt tag](https://cloud.githubusercontent.com/assets/10466533/8212392/b9588420-151b-11e5-9243-baf2078fe936.png)  
-  change the marked part in **android:sharedUserId** to you **theme name**. (example: exampleUI)                                        
+  change the marked part in **android:sharedUserId** to your **theme name**. (example: exampleUI)                                        
   change the marked part in **android:label** the desired **app Name** (shown in android in the settings app  (example: Example UI)
 
 * at the bottom you have to add some basic information about your theme
@@ -48,7 +48,7 @@ In a file explorer open the following location of the project:
      ![alt tag](https://cloud.githubusercontent.com/assets/10466533/8214333/cbb509ba-1528-11e5-9d4c-1e6a6514a474.png)<br/><br/>
       * **icon**: An icon displayed in the overlay chooser of the Layers Manager<br/>
      ![alt tag](https://cloud.githubusercontent.com/assets/10466533/8214403/435d392e-1529-11e5-8c83-fb111d3a9fe5.png)<br/><br/>
-      * **screenshot1,2,3**: Screenshots visible on you themes installation page (height about 1100px)
+      * **screenshot1,2,3**: Screenshots visible on your themes installation page (height about 1100px)
      ![alt tag](https://cloud.githubusercontent.com/assets/10466533/8214474/ce3e376e-1529-11e5-856a-35061c15e069.png)<br/><br/><br/>
   * **Overlay zips** (app\src\main\assets\Files)
     * How to name the Overlay apk´s: **ThemeName_OverlayedAppNameWithoutSpaces.apk** (OverlayedAppNameWith... = one item you put into the OverlayNames list, but without the spaces)
@@ -62,7 +62,7 @@ In a file explorer open the following location of the project:
 
 ##You are Ready
 
-Compile/run the app and test it in the new Layers Manager :) I hope the tutorial was understandable and if you still have any question or a suggestion on how to improve the tutorial, just tell me...
+Compile/run the app and test it in the new Layers Manager :) I hope the tutorial was understandable and if you still have any questions or a suggestions on how to improve the tutorial, just let me know...
       
     
       
