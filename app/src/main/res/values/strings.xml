@@ -11,15 +11,18 @@
     <!-- Changelog -->
     <string name="ThemeChangelog">NEW LAYERS MANAGER APP WITH AN AWESOME NEW FEATURE *_*</string>
 
-    <!-- Names of the apps overlayed by a normal Overlay -->
+    <!-- Names of the apps overlayed by a normal Overlay: Normal Overlays are the Overlays which are only available in one color -->
+    <!-- KEEP EMPTY IF YOU DONT HAVE ANY NORMAL OVERLAYS-->
     <string name="NormalOverlayNames">Contacts,Dialer,FrameworkRes,Google Plus,Hangouts</string>
 
 
 
-    <!-- OPTIONAL: Names of apps overlayed by overlays available in different Styles (colors, material/light dark,...) -->
+    <!-- OPTIONAL: Names of apps overlayed by overlays available in different Styles (Style specific Overlays are Overlays which are available in for example different colors or different Styles)-->
+    <!-- KEEP EMPTY IF YOU DONT HAVE ANY STYLE SPECIFIC OVERLAYS-->
     <string name="StyleSpecificOverlayNames">Keyboard,Calculator,Settings</string>
 
-    <!-- OPTIONAL: Styles available for the stylespecific Overlays -->
+    <!-- OPTIONAL: Styles available for the stylespecific Overlays, for example the colors the Overlays are available in -->
+    <!-- KEEP EMPTY IF YOU DONT HAVE ANY STYLE SPECIFIC OVERLAYS-->
     <string name="Styles">Red,Green</string>
 
 
