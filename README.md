@@ -8,7 +8,7 @@ The current plugin Version is 3.0 which was released on the fourteenth of Novemb
 
 * Whats new in Version 3.0?
   * Remove shared userId since it wasn´t necessary
-  * Overlays are recogniced auomatically --> no need to declare them anymore
+  * Overlays are recognized auomatically --> no need to declare them anymore
   * Ability to add different styles/colors/versions to single Overlays
   
 * Whats new in Version 1.1?
