@@ -2,10 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.schnettler.exampleUI"
     android:versionCode="1"
-    android:versionName="1.0"
-    android:sharedUserId="android.uid.ExampleUi"
-    android:process="com.android.Layers">
-    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    android:versionName="1.0">
     <application android:label="@string/ThemeName"
         android:icon="@drawable/icon">
         <service android:name=".Overlay"
@@ -14,18 +11,12 @@
                 <action android:name="com.layers.plugins.PICK_OVERLAYS" />
                 <category android:name="Overlay" />
             </intent-filter>
-
         </service>
 
         <meta-data android:name="Layers_Name" android:value="@string/ThemeName"/>
         <meta-data android:name="Layers_Developer" android:value="@string/ThemeAuthor"/>
         <meta-data android:name="Layers_Description" android:value="@string/ThemeDescription"/>
         <meta-data android:name="Layers_WhatsNew" android:value="@string/ThemeChangelog"/>
-
-        <meta-data android:name="Layers_NormalOverlays" android:value="@string/NormalOverlayNames"/>
-
-        <meta-data android:name="Layers_StyleSpecificOverlays" android:value="@string/StyleSpecificOverlayNames"/>
-        <meta-data android:name="Layers_Colors" android:value="@string/Styles"/>
 
     </application>
 
